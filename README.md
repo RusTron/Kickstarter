@@ -7,4 +7,4 @@ Implement landing page according to [Figma design](https://www.figma.com/file/5j
 - Mobile (> 320px)
 
 
-  [Kickstarter](https://rustron.github.io/Kickstarter/) landing page
+[Kickstarter](https://rustron.github.io/Kickstarter/) landing page
